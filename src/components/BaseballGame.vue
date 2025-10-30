@@ -165,6 +165,9 @@ button {
 }
 button:hover {
   cursor: pointer;
+  background-color: orange;
+  font-size: 16px;
+  font-weight: bold;
 }
 .btn {
   background-color: rgba(255, 179, 179, 0.774);
